@@ -1,4 +1,4 @@
-# Team Members :rocket:
+ # Team Members :rocket:
 
 --------------------------------------------------------------------------------
 
@@ -21,5 +21,5 @@ Team |                         Members                   | GitHub
 14   | Anna Giovanelli, Gionni Reffo                     | [@ReffoGionni](https://github.com/ReffoGionni)
 15   | Fabio Zanardello, Matteo Piovesan, Safouane Fatnassi| [@ooctopuss](https://github.com/ooctopuss)
 16   | Dario Ferrai, Matteo Padovan, Sara Frizzera       | [@SaraFrizzera](https://github.com/SaraFrizzera)
-17   | Bettin Claudio, Deanesi Emanuele                  | [@BettinClaudio](https://github.com/BettinClaudio/)
+17   | Bettin Claudio, Deanesi Emanuele                  | [@BettinClaudio](https://github.com/BettinClaudio/) [@emanueledeanesi](https://github.com/emanueledeanesi)
 18   | Dmytro Kashchuk, Ruggeri Lucrezia, Spinel Fabiola | [@DmytroKashcuhk](https://github.com/DmytroKashchuk)  
