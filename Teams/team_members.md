@@ -22,5 +22,5 @@ Team |                         Members                   | GitHub
 14   | Gionni Reffo                                      | [@ReffoGionni](https://github.com/ReffoGionni)
 15   | Fabio Zanardello, Matteo Piovesan, Safouane Fatnassi| [@ooctopuss](https://github.com/ooctopuss)
 16   | Dario Ferrai, Matteo Padovan, Sara Frizzera       | [@SaraFrizzera](https://github.com/SaraFrizzera)
-17   | Bettin Claudio, Deanesi Emanuele                  | [@BettinClaudio](https://github.com/BettinClaudio/) https://github.com/emanueledeanesi
+17   | Bettin Claudio, Deanesi Emanuele                  | [@BettinClaudio](https://github.com/BettinClaudio/) @emanueledeanesi
 
