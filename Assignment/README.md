@@ -85,7 +85,7 @@ in una directory `doc` all'interno della vostra app.
 
 ## Behaviour Driven Development Specification
 
-DEADLINE: 2017-11-22
+DEADLINE: ~~2017-11-22~~ 2017-11-27
 
 SCORE: 5
 
@@ -96,7 +96,7 @@ pubblica sul repository di progetto.
 
 ## Test Results
 
-DEADLINE: 2017-11-28
+DEADLINE: ~~2017-11-28~~ 2017-12-11
 
 SCORE: 5
 
@@ -113,7 +113,7 @@ Note.
 
 ## Presentazione Finale
 
-DEADLINE: 2017-12-06
+DEADLINE: ~~2017-12-06~~ 2017-12-11
 
 SCORE: 3
 
@@ -123,3 +123,5 @@ Il team produce e carica sul repository:
   lucidi o un README file)
 - il diagramma ER a partire dal codice, utilizzando `railroady`
 - la licenza d'uso del sistema sviluppato e del codice prodotto
+
+Retrospective in aula.
